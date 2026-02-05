@@ -1,3 +1,5 @@
+// Tested on FreeBSD 15 only; structure definitions may need adjustment for other versions of FreeBSD. I've only implemented this specifically for version 15 
+
 #include <sys/types.h>
 #include <sys/socket.h>
 #include <net/if.h>
